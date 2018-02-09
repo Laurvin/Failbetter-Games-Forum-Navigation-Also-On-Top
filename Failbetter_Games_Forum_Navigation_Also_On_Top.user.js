@@ -3,7 +3,7 @@
 // @namespace Failbetter Games Forum Navigation Also On Top
 // @author Laurvin
 // @description Copies the paging to the top of the page.
-// @version 1
+// @version 1.0
 // @icon http://i.imgur.com/XYzKXzK.png
 // @downloadURL https://github.com/Laurvin/Failbetter-Games-Forum-Navigation-Also-On-Top/raw/master/Failbetter_Games_Forum_Navigation_Also_On_Top.user.js
 // @include http://community.failbettergames.com/*
